@@ -8,7 +8,7 @@ Designed with a fun, playful UI and focused on conversion, this project highligh
 
 ## 🚀 Live Demo
 
-👉 (Add your GitHub Pages link here)
+👉 (https://vitordutramelo.github.io/kick-color-landing)
 
 ---
 
@@ -91,6 +91,7 @@ Connect to Amazon affiliate links
 Improve animations and micro-interactions
 SEO optimization
 Add analytics (Google Analytics / Meta Pixel)
+
 👨‍💻 Author
 
 Built by Vitor Dutra Melo
